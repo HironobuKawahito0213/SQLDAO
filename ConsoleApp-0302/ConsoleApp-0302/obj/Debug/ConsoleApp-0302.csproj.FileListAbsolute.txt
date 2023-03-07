@@ -1,0 +1,13 @@
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\bin\Debug\ConsoleApp-0302.exe.config
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\bin\Debug\ConsoleApp-0302.exe
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\bin\Debug\ConsoleApp-0302.pdb
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\obj\Debug\ConsoleApp-0302.csproj.AssemblyReference.cache
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\obj\Debug\ConsoleApp-0302.csproj.SuggestedBindingRedirects.cache
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\obj\Debug\ConsoleApp-0302.csproj.CoreCompileInputs.cache
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\obj\Debug\ConsoleApp-0302.exe
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\obj\Debug\ConsoleApp-0302.pdb
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\bin\Debug\Magnum.dll
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\bin\Debug\Magnum.xml
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ia\source\repos\ConsoleApp-0302\ConsoleApp-0302\obj\Debug\ConsoleApp-0302.csproj.CopyComplete
